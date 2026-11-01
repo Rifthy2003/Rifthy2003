@@ -1,16 +1,161 @@
-## Hi there 👋
+<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
-<!--
-**Rifthy2003/Rifthy2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B3D91,100:00C9FF&height=220&section=header&text=RIFTHY&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOC%20OPERATIONS%20%7C%20THREAT%20DETECTION&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `> Hello, World! I'm Rifthy 👋`
+
+**Computer Engineering Undergraduate | Aspiring Cybersecurity Professional**
+
+*Building. Breaking. Securing. Repeating.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rifthy-mf-1ba382343/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Rifthy2003)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/rifthyahd)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+Name: Rifthy
+Education: Computer Engineering Undergraduate
+University: University of Sri Jayewardenepura
+Primary_Focus: Cybersecurity
+
+Interests:
+  - Security Operations (SOC)
+  - Threat Hunting & Detection
+  - Incident Response
+  - Network Security
+  - Security Engineering
+
+Currently:
+  - Building practical cybersecurity projects
+  - Exploring SIEM & threat detection
+  - Learning through hands-on security labs
+
+Goal: Become a skilled Cybersecurity Professional
+```
+
+## ⚡ Cybersecurity Arsenal
+
+<div align="center">
+
+### 🔐 Security & Blue Team
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TryHackMe-Security%20Labs-C11111?style=for-the-badge"/>
+
+### 💻 Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,firebase,mysql" />
+
+### ⚙️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postgres" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🛡️ ZeroTrace
+**Automated Web Vulnerability Scanner**
+
+An automated security testing platform designed to discover, analyze and report web application vulnerabilities.
+
+`Python` `FastAPI` `React` `PostgreSQL` `Docker`
+
+---
+
+### 🔍 SentinelX
+**Explainable ML-Based Network Intrusion Detection**
+
+A research-oriented security monitoring system combining machine learning-based network detection, Wazuh endpoint monitoring and cross-source incident correlation.
+
+`Python` `Machine Learning` `Wazuh` `FastAPI` `React`
+
+---
+
+### 🖥️ SOC Home Lab
+**Security Monitoring & SIEM Environment**
+
+A practical SOC lab built with Wazuh SIEM, Ubuntu Server and Windows endpoints for centralized log collection, endpoint monitoring and security event analysis.
+
+`Wazuh` `Ubuntu` `Windows` `SIEM`
+
+</div>
+
+---
+
+## 🎯 Current Learning Journey
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| 🔵 Blue Team | SOC Operations & Monitoring |
+| 🔎 Threat Hunting | Detection & Investigation |
+| 🛡️ SIEM | Wazuh & Security Analytics |
+| 🌐 Network Security | Traffic Analysis |
+| 🚨 Incident Response | Alert Analysis & Triage |
+
+</div>
+
+**Learning Platforms**
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security_Completed-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Learning-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security-FF6633?style=for-the-badge)](https://portswigger.net/web-security)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rifthy2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifthy2003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Rifthy2003&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in Cybersecurity, Collaboration & Learning Opportunities?**
+
+<a href="https://www.linkedin.com/in/rifthy-mf-1ba382343/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Rifthy2003">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+*"Think like an attacker. Defend like an engineer."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B3D91,100:00C9FF&height=110&section=footer"/>
+
+</div>
