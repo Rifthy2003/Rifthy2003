@@ -130,9 +130,6 @@ A practical SOC lab built with Wazuh SIEM, Ubuntu Server and Windows endpoints f
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rifthy2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifthy2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Rifthy2003&theme=tokyonight&hide_border=true"/>
 
 </div>
 
