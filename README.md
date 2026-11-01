@@ -120,18 +120,7 @@ A practical SOC lab built with Wazuh SIEM, Ubuntu Server and Windows endpoints f
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security_Completed-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Learning-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-Web_Security-FF6633?style=for-the-badge)](https://portswigger.net/web-security)
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rifthy2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-
-</div>
 
 ---
 
